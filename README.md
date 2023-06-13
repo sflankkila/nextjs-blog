@@ -7,4 +7,6 @@ https://restcountries.com/#endpoints-all
 ### Tools to maybe use
 https://swr.vercel.app/
 
-Locally accessible from http://localhost:3000/
+### Accessible through 
+https://nextjs-blog-sflankkila.vercel.app/
+
