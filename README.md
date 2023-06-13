@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+https://nextjs.org/learn/basics/deploying-nextjs-app
+
+### Ideas of APIs to use
+https://restcountries.com/#endpoints-all
